@@ -71,7 +71,3 @@ jupyter lab llm_playground.ipynb
 ```
 
 The first run downloads GPT-2 (~500 MB) and Qwen3-0.6B (~1.5 GB) from Hugging Face.
-
-## Acknowledgments
-
-Built as part of the [ByteByteGo](https://bytebytego.com/) AI Engineering course. The course provided the project outline; the implementation and analysis are my own.
